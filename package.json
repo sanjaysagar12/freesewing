@@ -95,9 +95,12 @@
     "@babel/preset-react": "^7.22.15",
     "c8": "^10.1.2",
     "eslint-config-next": "^14.0.1",
+    "express": "^5.2.1",
     "glob": "^10.3.10",
     "rehype-format": "^5.0.0",
     "rehype-stringify": "^10.0.1",
+    "swagger-jsdoc": "^6.2.8",
+    "swagger-ui-express": "^5.0.1",
     "tlds": "^1.255.0"
   },
   "engines": {
